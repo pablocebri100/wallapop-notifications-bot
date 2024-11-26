@@ -1,0 +1,112 @@
+# -*- coding: utf-8 -*-
+from telegram import Update
+from telegram.ext import Application, CommandHandler, ContextTypes
+import requests
+import time
+
+# Token del bot
+TOKEN = "7145816218:AAFKUuq5YPl3NfZ36AkvIc1sDQB3-wGSk-8"
+
+# Variables globales para almacenar el filtro
+user_filter = {
+    'query': None,
+    'min_price': None,
+    'max_price': None
+}
+
+# Comando para iniciar el bot
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    await update.message.reply_text(
+        "Hola! Soy tu bot de notificaciones de Wallapop. Usa /setfilter para configurar un filtro."
+    )
+
+# Comando para configurar el filtro
+async def setfilter(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if len(context.args) < 1:
+        await update.message.reply_text("Por favor, envia un término de búsqueda. Ejemplo: /setfilter bicicleta")
+        return
+    
+    # Configuración de búsqueda
+    user_filter['query'] = ' '.join(context.args[:1])  # Primer argumento como la búsqueda
+    await update.message.reply_text(f"Filtro configurado: {user_filter['query']}")
+
+    # Configuración de precio (si se pasan más de un argumento)
+    if len(context.args) >= 3:
+        try:
+            user_filter['min_price'] = float(context.args[1])
+            user_filter['max_price'] = float(context.args[2])
+            await update.message.reply_text(f"Filtro de precio configurado: {user_filter['min_price']}€ - {user_filter['max_price']}€")
+        except ValueError:
+            await update.message.reply_text("Por favor, usa un formato de precio válido (ejemplo: 10 100).")
+
+# Función para buscar en Wallapop
+def search_wallapop(query):
+    url = f"https://api.wallapop.com/api/v3/general/search?keywords={query}&latitude=40.416775&longitude=-3.703790"
+    headers = {
+        'Accept': '*/*',
+        'User-Agent': 'Wget/1.21.4',
+        'Accept-Encoding': 'identity',
+        'X-DeviceOS': '0'
+    }
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        data = response.json()
+        return data.get("search_objects", [])
+    return []
+
+# Comando para iniciar la búsqueda con notificaciones
+async def startsearch(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    if not user_filter.get("query"):
+        await update.message.reply_text("Primero configura un filtro usando /setfilter.")
+        return
+
+    await update.message.reply_text(f"Iniciando búsqueda para: {user_filter['query']}...")
+    last_results = set()
+
+    while True:
+        results = search_wallapop(user_filter['query'])
+        new_results = []
+
+        for item in results:
+            item_id = item["id"]
+            if item_id not in last_results:
+                # Filtrar por precio si está configurado
+                price = item.get("price", 0)
+                if (user_filter['min_price'] is not None and price < user_filter['min_price']) or \
+                   (user_filter['max_price'] is not None and price > user_filter['max_price']):
+                    continue
+
+                new_results.append(item)
+                last_results.add(item_id)
+
+        if new_results:
+            for item in new_results:
+                # Obtener el enlace usando 'web_slug'
+                web_slug = item.get('web_slug', None)
+                if web_slug:
+                    product_url = f"https://es.wallapop.com/item/{web_slug}"
+                else:
+                    product_url = "Enlace no disponible"
+
+                message = f"Nuevo artículo encontrado: {item['title']}\nPrecio: {item.get('price', 'No disponible')}€\nEnlace: {product_url}"
+                await update.message.reply_text(message)
+        else:
+            await update.message.reply_text("No se encontraron nuevos resultados.")
+
+        time.sleep(60)  # Espera 1 minuto antes de buscar de nuevo
+
+# Main
+def main():
+    # Crear la aplicación
+    application = Application.builder().token(TOKEN).build()
+
+    # Registrar comandos
+    application.add_handler(CommandHandler("start", start))
+    application.add_handler(CommandHandler("setfilter", setfilter))
+    application.add_handler(CommandHandler("startsearch", startsearch))
+
+    # Ejecutar el bot
+    application.run_polling()
+
+if __name__ == "__main__":
+    main()
