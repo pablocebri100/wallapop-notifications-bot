@@ -1,12 +1,12 @@
-# -*- coding: utf-8 -*-  
-from telegram import Update  
-from telegram.ext import Application, CommandHandler, ContextTypes  
-import requests  
-import time  
-import asyncio  
-from datetime import datetime, timedelta  
+# -*- coding: utf-8 -*-
+from telegram import Update
+from telegram.ext import Application, CommandHandler, ContextTypes
+import requests
+import asyncio
+import json
+from datetime import datetime, timedelta
 
-# Token del bot  
+# Token del bot
 TOKEN = "7145816218:AAFKUuq5YPl3NfZ36AkvIc1sDQB3-wGSk-8"  # Reemplaza con tu token
 
 # Variables globales para almacenar los filtros y el estado de búsqueda
@@ -40,7 +40,7 @@ async def setfilter(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     price_range = context.args[-1]
     
     try:
-        min_price, max_price = map(float, price_range.split('-'))
+        min_price, max_price = map(int, price_range.split('-'))  # Convertimos a enteros (sin decimales)
         user_filters.append({"query": query, "min_price": min_price, "max_price": max_price})
         await update.message.reply_text(
             f"Filtro agregado:\nPalabras clave: {query}\nRango de precio: {min_price}€ - {max_price}€"
@@ -80,20 +80,66 @@ async def removefilter(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
     except ValueError:
         await update.message.reply_text("Por favor, proporciona un índice válido.")
 
-# Función para buscar en Wallapop
-def search_wallapop(query):
-    url = f"https://api.wallapop.com/api/v3/general/search?keywords={query}&latitude=40.416775&longitude=-3.703790"
+# Función para realizar la búsqueda con filtros (incluyendo el 'search_id')
+def search_wallapop_with_filters(query, min_price, max_price):
+    # Aseguramos que min_price y max_price son enteros sin decimales
+    min_price = int(min_price)
+    max_price = int(max_price)
+    
+    url = f"https://api.wallapop.com/api/v3/search?min_sale_price={min_price}&max_sale_price={max_price}&source=default_filters&keywords={query}&longitude=-3.69196&latitude=40.41956"
+    
     headers = {
         'Accept': '*/*',
         'User-Agent': 'Wget/1.21.4',
         'Accept-Encoding': 'identity',
         'X-DeviceOS': '0'
     }
+
+    print(f"URL solicitada: {url}")  # Registro de la URL
+
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return data.get("search_objects", [])
-    return []
+
+        # Volcado completo de los datos para depuración
+        print(json.dumps(data, indent=4))  # Ver todos los datos de la respuesta
+
+        # Guardar la respuesta en un archivo JSON
+        try:
+            with open("api_response_log.json", "w", encoding="utf-8") as log_file:
+                json.dump(data, log_file, ensure_ascii=False, indent=4)
+            print(f"Respuesta completa guardada en 'api_response_log.json'")
+        except Exception as e:
+            print(f"Error al guardar el archivo de log: {e}")
+
+        # Extraer el search_id de la respuesta, si existe
+        search_id = data.get("x-wallapop-search-id", None)
+        print(f"search_id: {search_id}")  # Imprimir el search_id para ver si se obtiene correctamente
+        
+        # Retornar los resultados de la búsqueda
+        search_objects = data.get("data", {}).get("section", {}).get("payload", {}).get("items", [])
+        print(f"Número de resultados encontrados: {len(search_objects)}")  # Verificar cuántos resultados se han encontrado
+        return search_objects, search_id
+    else:
+        print(f"Error en la solicitud: {response.status_code}")
+        return [], None
+
+# Función que procesa los resultados y envía el mensaje
+async def process_search_results(update, results, query):
+    if results:
+        for item in results:
+            title = item.get("title", "No disponible")
+            price = item.get("price", {}).get("amount", "No disponible")
+            web_slug = item.get("web_slug", "")
+            product_url = f"https://es.wallapop.com/item/{web_slug}" if web_slug else "Enlace no disponible"
+            message = (
+                f"Nuevo artículo para el filtro '{query}': {title}\n"
+                f"Precio: {price}€\nEnlace: {product_url}"
+            )
+            print(f"Enviando mensaje: {message}")  # Depuración para verificar el mensaje
+            await update.message.reply_text(message)
+    else:
+        print(f"No se encontraron nuevos resultados para '{query}'.")
 
 # Comando para iniciar la búsqueda
 async def startsearch(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -111,46 +157,48 @@ async def startsearch(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     is_searching = True
 
     async def search_loop():
-        last_results = {f['query']: set() for f in user_filters}
+        global last_notification_time  # Aseguramos que esta variable sea accesible
+        last_results = {}
+        
+        # Inicializar last_notification_time si no lo está
+        if last_notification_time == datetime.min:
+            last_notification_time = datetime.now()
+
         while is_searching:
             for user_filter in user_filters:
                 query = user_filter["query"]
                 min_price = user_filter["min_price"]
                 max_price = user_filter["max_price"]
 
-                results = search_wallapop(query)
+                # Inicializar los resultados para la consulta si no existen
+                if query not in last_results:
+                    last_results[query] = set()
+
+                results, search_id = search_wallapop_with_filters(query, min_price, max_price)
+                print(f"Número de resultados devueltos por la API para '{query}': {len(results)}")  # Registro
+
                 new_results = []
 
                 for item in results:
-                    item_id = item["id"]
-                    if item_id not in last_results[query]:
-                        price = item.get("price", 0)
+                    item_id = item.get("id")
+                    if item_id and item_id not in last_results[query]:
+                        price = item.get("price", {}).get("amount", 0)
                         if min_price <= price <= max_price:
                             new_results.append(item)
                             last_results[query].add(item_id)
 
-                # Si se encontraron resultados nuevos
-                if new_results:
-                    for item in new_results:
-                        web_slug = item.get('web_slug', None)
-                        product_url = f"https://es.wallapop.com/item/{web_slug}" if web_slug else "Enlace no disponible"
-                        message = (
-                            f"Nuevo artículo para el filtro '{query}': {item['title']}\n"
-                            f"Precio: {item.get('price', 'No disponible')}€\nEnlace: {product_url}"
-                        )
-                        await update.message.reply_text(message)
+                # Procesar los resultados encontrados
+                await process_search_results(update, new_results, query)
 
-                    last_notification_time = datetime.now()  # Actualizamos la hora de la última notificación
-                else:
-                    # Si no se encontraron nuevos resultados, verificamos si ha pasado 1 hora
-                    if datetime.now() - last_notification_time >= timedelta(hours=3):
-                        await update.message.reply_text(f"No se encontraron nuevos resultados para '{query}' en la última hora.")
-                        last_notification_time = datetime.now()  # Actualizamos la hora de la última notificación
+                # Enviar mensaje si no hay nuevos resultados en 3 horas
+                if not new_results and datetime.now() - last_notification_time >= timedelta(hours=3):
+                    await update.message.reply_text(f"No se encontraron nuevos resultados para '{query}' en las últimas 3 horas.")
+                    last_notification_time = datetime.now()
 
-            await asyncio.sleep(60)  # Espera 1 minuto antes de buscar de nuevo
+            await asyncio.sleep(60)  # Esperar 1 minuto antes de buscar de nuevo
 
-    # Ejecutar la búsqueda en segundo plano
     asyncio.create_task(search_loop())
+
 
 # Comando para detener la búsqueda
 async def stopsearch(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -180,6 +228,7 @@ if __name__ == "__main__":
 
 
 
+
+
 # cd C:\Users\Usuario\Desktop\mi-bot-telegram
 # python bot.py
-   

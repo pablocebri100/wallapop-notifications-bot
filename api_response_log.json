@@ -1,0 +1,3424 @@
+{
+    "data": {
+        "section": {
+            "payload": {
+                "order": "most_relevance",
+                "title": "Find what you want",
+                "items": [
+                    {
+                        "id": "8z8klm9vr8z3",
+                        "user_id": "e65y39k1opjo",
+                        "title": "Mario kart 8 ",
+                        "description": "Mariokart 8 per Nintendo Wii U. \nGioco PAL multilingua ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658059.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658059.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658059.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658106.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658106.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658106.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658140.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658140.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658140.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658166.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658166.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/i8/__/c10420p1074125046/i5266658166.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 45.51980920005894,
+                            "longitude": 9.13386604904999,
+                            "postal_code": "20157",
+                            "city": "Milano",
+                            "region": "Lombardia",
+                            "region2": "Milano",
+                            "country_code": "IT"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-1074125046",
+                        "created_at": 1732824710048,
+                        "modified_at": 1732824720951,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "4z4elw402wjy",
+                        "user_id": "qjwy2rnl0qzo",
+                        "title": "Volante Mario Kart 8 Deluxe",
+                        "description": "Volante nuevo con la caja y el plastico protector.",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977375.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977375.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977375.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977412.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977412.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977412.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977414.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977414.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/qb/__/c10420p1074502414/i5268977414.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": true
+                        },
+                        "location": {
+                            "latitude": 41.6260047,
+                            "longitude": 1.0092351,
+                            "postal_code": "25250",
+                            "city": "Bellpuig",
+                            "region": "Cataluña",
+                            "region2": "Lleida",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volante-mario-kart-8-deluxe-1074502414",
+                        "created_at": 1732964300037,
+                        "modified_at": 1732966259324,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10091,
+                                "name": "Other gaming items",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "0j24ld9rldzy",
+                        "user_id": "g0j2g10donzy",
+                        "title": "Set Mario kart 8 Deluxe ",
+                        "description": "Sólo se vende los Pins, cromos y pegatinas de Nintendo switch \n",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 20.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/81/__/c10420p1071970335/i5254733733.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/81/__/c10420p1071970335/i5254733733.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/81/__/c10420p1071970335/i5254733733.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.382524668298586,
+                            "longitude": -3.7159962181058703,
+                            "postal_code": "28026",
+                            "city": "Madrid",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "set-mario-kart-8-deluxe-1071970335",
+                        "created_at": 1732222234436,
+                        "modified_at": 1732894687189,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "4z4elmmymljy",
+                        "user_id": "4w6774glo96x",
+                        "title": "Mario kart deluxe",
+                        "description": "Muñecos happy meal mcdonals, súper mariokart deluxe 8, luigi, bowser, peach y Yoshi. Se realizan envios sin problema. Precios = 1 X 5e - 2 X 9e - 3 X 12e - 4 X 14",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453575.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453575.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453575.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453728.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453728.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453728.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453792.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453792.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453792.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453850.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453850.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453850.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453933.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453933.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/yo/__/c10420p1073213438/i5260453933.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": true
+                        },
+                        "location": {
+                            "latitude": 43.364302297180835,
+                            "longitude": -5.827675785436616,
+                            "postal_code": "33008",
+                            "city": "Oviedo",
+                            "region": "Principado de Asturias",
+                            "region2": "Asturias",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-deluxe-1073213438",
+                        "created_at": 1732571949081,
+                        "modified_at": 1732744379404,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "v6ggr9ee5l6e",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Super mario maker para Nintendo wii-u ",
+                        "description": "Super mario maker para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 14.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074088916/i5266454448.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074088916/i5266454448.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074088916/i5266454448.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "super-mario-maker-para-nintendo-wii-u-1074088916",
+                        "created_at": 1732816652141,
+                        "modified_at": 1732816662436,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "x6qmopxvmnjy",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Super mario 3d World para Nintendo wii-u ",
+                        "description": "Super mario 3d World para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/hf/__/c10420p1074087490/i5266445139.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/hf/__/c10420p1074087490/i5266445139.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/hf/__/c10420p1074087490/i5266445139.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "super-mario-3d-world-para-nintendo-3ds-1074087490",
+                        "created_at": 1732816347355,
+                        "modified_at": 1732827406257,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "pzp2mpr5r5j3",
+                        "user_id": "pzp9rg4n0563",
+                        "title": "Mario Kart dorado \"Mario Kart Deluxe 8\" McDonald's",
+                        "description": "Gold Mario kart (Mario Kart dorado) de la colección \"Mario Kart Deluxe 8\", colaboración entre Nintendo y McDonald's en 2024.\n\nEl juguete se encuentra en perfecto estado, totalmente nuevo y a estrenar. Tan solo ha sido abierto para realizar las fotos.\n\nViene con caja, papel envoltorio blanco y pegatinas.\n\nAlgunos desperfectos en la pintura del mismo son normales en los juguetes de McDonald's (ver fotos para comprobar estado del mismo).\n\nPara cualquier duda, ¡pregunta sin compromiso! 😉🥰\n\nMás juguetes de la colección en mi perfil 😉👀\n\nMarioKart oro Mario Gold dorado mc mac Mcdonald Nintendoswitch switch coche",
+                        "category_id": 18000,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263114997.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263114997.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263114997.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115059.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115059.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115059.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115065.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115065.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115065.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115071.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115071.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115071.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115081.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115081.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115081.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115093.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115093.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115093.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115105.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115105.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115105.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115118.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115118.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115118.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115129.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115129.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115129.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115142.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115142.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/8v/__/c10420p1073688298/i5263115142.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 38.97609155382634,
+                            "longitude": -1.8561644150192036,
+                            "postal_code": "02002",
+                            "city": "Albacete",
+                            "region": "Castilla-La Mancha",
+                            "region2": "Albacete",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-dorado-mario-kart-deluxe-8-mcdonald-s-1073688298",
+                        "created_at": 1732712716931,
+                        "modified_at": 1733007882553,
+                        "taxonomy": [
+                            {
+                                "id": 18000,
+                                "name": "Collectibles & Art",
+                                "icon": "collecting"
+                            },
+                            {
+                                "id": 10082,
+                                "name": "Toy collecting",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "x6qmo0odq5jy",
+                        "user_id": "nzx5qe5wwe62",
+                        "title": "MUÑECOS MARIO KART (MCDONALDS)",
+                        "description": "Vendo los muñecos de la foto de la coleccion MARIO KART 8 DELUXE de MCDONALDS (NOVIBRE 2024)\nLos muñecos son\nMARIO\nLUIGI\nBOWSER\nDONKEY KONG\nTOADETTE\nPEACH\nYOSHI\n\nTODOS NUEVOS A ESTRENAR.\nPRECIO POR UNIDAD\nNO HAGO PRECIO POR LOTE\nENTREGO EN MANO EN MADRID\n",
+                        "category_id": 18000,
+                        "price": {
+                            "amount": 14.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/br/__/c10420p1073823142/i5263674238.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/br/__/c10420p1073823142/i5263674238.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/br/__/c10420p1073823142/i5263674238.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": true
+                        },
+                        "location": {
+                            "latitude": 40.39525290231398,
+                            "longitude": -3.6998655250051766,
+                            "postal_code": "28005",
+                            "city": "Madrid",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "munecos-mario-kart-mcdonalds-1073823142",
+                        "created_at": 1732735048565,
+                        "modified_at": 1732744428387,
+                        "taxonomy": [
+                            {
+                                "id": 18000,
+                                "name": "Collectibles & Art",
+                                "icon": "collecting"
+                            },
+                            {
+                                "id": 10082,
+                                "name": "Toy collecting",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "36e1rp5yyyjd",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Mario kart 8 para Nintendo wii-u ",
+                        "description": "Mario kart 8 para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/w8/__/c10420p1069740187/i5241895086.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/w8/__/c10420p1069740187/i5241895086.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/w8/__/c10420p1069740187/i5241895086.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-para-nintendo-wii-u-1069740187",
+                        "created_at": 1731628731839,
+                        "modified_at": 1731628742162,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "3zl874omn86x",
+                        "user_id": "9wzvgvq0erzl",
+                        "title": "Volante Mario kart 8 deluxe",
+                        "description": "Dos volantes para Mario kart 8 deluxe.\n",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162780.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162780.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162780.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162800.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162800.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162800.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162808.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162808.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162808.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162825.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162825.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162825.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162833.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162833.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/nc/__/c10420p1067645021/i5231162833.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.667760284188525,
+                            "longitude": -4.728531458590941,
+                            "postal_code": "47003",
+                            "city": "Valladolid",
+                            "region": "Castilla y León",
+                            "region2": "Valladolid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volante-mario-kart-8-deluxe-1067645021",
+                        "created_at": 1731085982038,
+                        "modified_at": 1731086031263,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10091,
+                                "name": "Other gaming items",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "e658lmnnmp6o",
+                        "user_id": "qjwy2rnl0qzo",
+                        "title": "Volante Mario Kart 8 Deluxe",
+                        "description": "1 volante de color rojo del juego Mario Kart 8 Deluxe. Nintendo Switch. Está nuevo sin el precinto.",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192396.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192396.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192396.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192419.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192419.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192419.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192426.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192426.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/f7/__/c10420p1067265224/i5228192426.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.6260047,
+                            "longitude": 1.0092351,
+                            "postal_code": "25250",
+                            "city": "Bellpuig",
+                            "region": "Cataluña",
+                            "region2": "Lleida",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volantes-mario-kart-8-deluxe-1067265224",
+                        "created_at": 1730989267612,
+                        "modified_at": 1732978745797,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10091,
+                                "name": "Other gaming items",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "8j34k27v3y69",
+                        "user_id": "7v6gpnkxkn6e",
+                        "title": "SÓLO CARÁTULA Mario Kart Deluxe 8",
+                        "description": "• SÓLO CARÁTULA\n• Perfecto estado\n• ¡No dudes en pedirme más fotos o escribirme si tienes alguna duda! 😄\n\n- ¡Entra en mi perfil para ver otros productos iguales en oferta!",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hk/ob/__/c10420p1062651434/i5199089646.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hk/ob/__/c10420p1062651434/i5199089646.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hk/ob/__/c10420p1062651434/i5199089646.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.61313433366901,
+                            "longitude": -1.0410647319958153,
+                            "postal_code": "30394",
+                            "city": "Canteras",
+                            "region": "Región de Murcia",
+                            "region2": "Murcia",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-deluxe-8-1062651434",
+                        "created_at": 1729793632066,
+                        "modified_at": 1729793901445,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "qzmewp37xljv",
+                        "user_id": "ke65o3rl4pzo",
+                        "title": "Juegos Nintendo Switch",
+                        "description": "Dead Cells: 25€\nRing Fit Adventure: 45€\nPuzzle Bobble: 30€\nAnimal Crossing: ❌\nMario Kart 8 Deluxe: ❌\nZelda Tears of the Kingdom: ❌\n*Si se quiere alguno suelto para enviar, le creo un anuncio aparte :)",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hp/2b/__/c10420p1070023508/i5243322308.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hp/2b/__/c10420p1070023508/i5243322308.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hp/2b/__/c10420p1070023508/i5243322308.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.42812824579399,
+                            "longitude": -3.5370855552801794,
+                            "postal_code": "28830",
+                            "city": "San Fernando de Henares",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": false
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "juegos-nintendo-switch-1070023508",
+                        "created_at": 1731707394604,
+                        "modified_at": 1731835955633,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "nz04lpqr8djo",
+                        "user_id": "vjrd1gxgvx6k",
+                        "title": "Carcasa juego nintendo switch",
+                        "description": "vendo carcasa del juego mario kart 8 deluxe (viene sin el juego)",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005047.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005047.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005047.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005055.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005055.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005055.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005058.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005058.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/s8/__/c10420p1072912475/i5259005058.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.38655395859149,
+                            "longitude": 1.9313671805981767,
+                            "postal_code": "08759",
+                            "city": "Vallirana",
+                            "region": "Cataluña",
+                            "region2": "Barcelona",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "carcasa-juego-nintendo-switch-1072912475",
+                        "created_at": 1732487005259,
+                        "modified_at": 1732487015715,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10087,
+                                "name": "Consoles & accessories",
+                                "icon": null
+                            },
+                            {
+                                "id": 10092,
+                                "name": "Accessories & spare parts for consoles",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "vjrq3ookr9zk",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Mario y sonic en los juegos olímpicos wii-u ",
+                        "description": "Mario y sonic en los juegos olímpicos para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757091/i5242044727.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757091/i5242044727.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757091/i5242044727.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-y-sonic-en-los-juegos-olimpicos-wii-u-1069757091",
+                        "created_at": 1731645600052,
+                        "modified_at": 1731645610440,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "0j24l11w8mzy",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Mario y sonic en los juegos olímpicos wii-u ",
+                        "description": "Mario y sonic en los juegos olímpicos de invierno para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757159/i5242045429.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757159/i5242045429.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757159/i5242045429.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-y-sonic-en-los-juegos-olimpicos-wii-u-1069757159",
+                        "created_at": 1731645823151,
+                        "modified_at": 1731645833514,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "qzmewomlrxjv",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "New super mario bros para Nintendo wii-u ",
+                        "description": "New super mario bros para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/w9/__/c10420p1069740808/i5241902279.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/w9/__/c10420p1069740808/i5241902279.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/w9/__/c10420p1069740808/i5241902279.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "new-super-mario-bros-para-nintendo-wii-u-1069740808",
+                        "created_at": 1731629017746,
+                        "modified_at": 1731629027990,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "p614lnqd7g65",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Splatoon para Nintendo wii-u ",
+                        "description": "Splatoon para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074089755/i5266459520.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074089755/i5266459520.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/hg/__/c10420p1074089755/i5266459520.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "splatoon-para-nintendo-wii-u-1074089755",
+                        "created_at": 1732816814086,
+                        "modified_at": 1732816824339,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "wzv451q5nrzl",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Pikmin 3 para Nintendo wii-u ",
+                        "description": "Pikmin 3 para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 17.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/hi/__/c10420p1074091489/i5266469570.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/hi/__/c10420p1074091489/i5266469570.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/hi/__/c10420p1074091489/i5266469570.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "pikmin-3-para-nintendo-wii-u-1074091489",
+                        "created_at": 1732817057041,
+                        "modified_at": 1732817067396,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "qjw4vwrgkqzo",
+                        "user_id": "3zlgkygv28jx",
+                        "title": "Stickers Super Mario Kart Deluxe 8",
+                        "description": "Lotto stickers per auto originali Nintendo Store ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242117.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242117.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242117.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242211.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242211.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242211.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242246.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242246.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242246.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242267.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242267.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242267.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242297.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242297.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242297.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242304.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242304.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242304.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242323.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242323.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242323.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242346.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242346.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242346.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242362.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242362.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242362.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242375.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242375.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/6u/__/c10420p1056797505/i5168242375.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 44.50555435691931,
+                            "longitude": 11.347673604766308,
+                            "postal_code": "40121",
+                            "city": "Bologna",
+                            "region": "Emilia-Romagna",
+                            "region2": "Bologna",
+                            "country_code": "IT"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "stickers-super-mario-kart-deluxe-8-1056797505",
+                        "created_at": 1728378432573,
+                        "modified_at": 1728378483479,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "ejk8nnpy5qjx",
+                        "user_id": "qnzxlowen5z2",
+                        "title": "Mario kart 8 Deluxe switch caja vacía original ",
+                        "description": "Mario kart 8 Deluxe switch caja vacía original!!\nNO INCLUYE CARTUCHO!!\nLa caja está en muy buen estado y la carátula también.\n\nSe aceptan pagos por wallapop✅\n\nademás de juegos originales juegos Nintendo marca NINTENDO gba creadores de juegos cómo , Pokemon Rojo Fuego, Pokemon verde hoja, Pokemon rubí, Pokemon zafiro, Pokemon Esmeralda, Pokemon Pikachu, Pokemon oro, Pokemon plata, Pokemon soul silver, Pokemon gold heart, Pokemon perla, Pokemon diamante, Pokemon platino, y muchos más.",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 11.99,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072475.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072475.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072475.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072550.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072550.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072550.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072573.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072573.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072573.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072598.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072598.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072598.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072615.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072615.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072615.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072626.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072626.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072626.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072645.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072645.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/5f/__/c10420p1063450023/i5203072645.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.43809279235705,
+                            "longitude": 2.2235155268235984,
+                            "postal_code": "08913",
+                            "city": "Badalona",
+                            "region": "Cataluña",
+                            "region2": "Barcelona",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-deluxe-switch-caja-vacia-original-1063450023",
+                        "created_at": 1730029399129,
+                        "modified_at": 1731761827124,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10089,
+                                "name": "Video game manuals & guides",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "nz04lm9xdrjo",
+                        "user_id": "9jd7ewkd12jk",
+                        "title": "Mariokart 8 deluxe x2 pezzi dorati mc",
+                        "description": "2 pezzi macchinette Mario kart oro edizione speciale ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231252654.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231252654.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231252654.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253299.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253299.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253299.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253951.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253951.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hn/np/__/c10420p1067662351/i5231253951.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.85527449775325,
+                            "longitude": 12.393986449853543,
+                            "postal_code": "00148",
+                            "city": "Roma",
+                            "region": "Lazio",
+                            "region2": "Roma",
+                            "country_code": "IT"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mariokart-8-deluxe-x2-pezzi-dorati-mc-1067662351",
+                        "created_at": 1731089644295,
+                        "modified_at": 1731089684425,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "9jdk4d40k96k",
+                        "user_id": "lqzmpeg931zv",
+                        "title": "Volante mario kart 8 deluxe nintendo ",
+                        "description": "Volante nintendo switch para mando, de Luigi, color verde.",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034305.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034305.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034305.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034356.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034356.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034356.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034367.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034367.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hd/vr/__/c10420p1051242184/i5140034367.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.4242209,
+                            "longitude": -3.644107,
+                            "postal_code": "28017",
+                            "city": "Madrid",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volante-mario-kart-8-deluxe-nintendo-1051242184",
+                        "created_at": 1727025180895,
+                        "modified_at": 1732575745506,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10091,
+                                "name": "Other gaming items",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "qjw4gkl04ezo",
+                        "user_id": "9nz0eo73176o",
+                        "title": "Mario ‘dorado’ Mario Kart 8 Deluxe Mcdonald’s",
+                        "description": "Nueva colección. Sin abrir y con todas sus pegatinas  (También hago envios)",
+                        "category_id": 18000,
+                        "price": {
+                            "amount": 13.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521450.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521450.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521450.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521455.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521455.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hm/o8/__/c10420p1066006777/i5218521455.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 39.489457285034995,
+                            "longitude": -0.3837263847458552,
+                            "postal_code": "46009",
+                            "city": "Valencia",
+                            "region": "Comunidad Valenciana",
+                            "region2": "Valencia",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-dorado-mario-kart-8-deluxe-mcdonalds-1066006777",
+                        "created_at": 1730676629839,
+                        "modified_at": 1731256464969,
+                        "taxonomy": [
+                            {
+                                "id": 18000,
+                                "name": "Collectibles & Art",
+                                "icon": "collecting"
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "8j34llopqy69",
+                        "user_id": "36edl5xd8vjd",
+                        "title": "Dragon ball z budokai 2 ps2",
+                        "description": "Juego para playstation 2 pal españa de dragon ball budokai 2. El disco es original y está impoluto. Siempre estuvo con una funda para evitar el polvo y suciedades. Hago envíos por correos y seur\n\nTags: Juego Mario Kart 8 Deluxe Animal Crossing Super Smash Bros Ultimate Legend Zelda Breath Wild y Escudo Odyssey Party Diamante Brillante Perla Reluciente Let's Go Pikachu Wonder 3D Adventure New U Deluxe Splatoon Arceus Luigi's tenkaichi..",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015242.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015242.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015242.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015314.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015314.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015314.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015332.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015332.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015332.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015349.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015349.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015349.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015352.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015352.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015352.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015371.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015371.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015371.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015380.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015380.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hq/4j/__/c10420p1071806858/i5254015380.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 43.3573743920365,
+                            "longitude": -5.871025013158439,
+                            "postal_code": "33013",
+                            "city": "Oviedo",
+                            "region": "Principado de Asturias",
+                            "region2": "Asturias",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "dragon-ball-z-ps2-1071806858",
+                        "created_at": 1732190859544,
+                        "modified_at": 1732985842365,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "p614l1gwqd65",
+                        "user_id": "nz0gk54emdjo",
+                        "title": "Figura Peach y Toadette kart ",
+                        "description": "juguetes Mario kart 8 deluxe juguete de Peach y Toadette a 5 € cada uno ",
+                        "category_id": 18000,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hp/si/__/c10420p1071246179/i5251143961.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hp/si/__/c10420p1071246179/i5251143961.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hp/si/__/c10420p1071246179/i5251143961.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": true
+                        },
+                        "location": {
+                            "latitude": 36.78787531310065,
+                            "longitude": -4.096134344693069,
+                            "postal_code": "29700",
+                            "city": "Vélez-Málaga",
+                            "region": "Andalucía",
+                            "region2": "Málaga",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "figura-peach-y-toadette-kart-1071246179",
+                        "created_at": 1732038185328,
+                        "modified_at": 1732832866397,
+                        "taxonomy": [
+                            {
+                                "id": 18000,
+                                "name": "Collectibles & Art",
+                                "icon": "collecting"
+                            },
+                            {
+                                "id": 10082,
+                                "name": "Toy collecting",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "p614lgg89565",
+                        "user_id": "npj9glge306e",
+                        "title": "Juego wii U ",
+                        "description": "Mario kart 8\nEn muy buen estado \nPal de España \nPrecio no negociable \nHago envíos \n",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189861.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189861.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189861.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189865.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189865.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189865.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189867.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189867.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189867.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189870.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189870.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hr/65/__/c10420p1073561479/i5262189870.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 38.09508631202075,
+                            "longitude": -3.7772076772220395,
+                            "postal_code": "23710",
+                            "city": "Bailén",
+                            "region": "Andalucía",
+                            "region2": "Jaén",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "juego-wii-u-1073561479",
+                        "created_at": 1732664605890,
+                        "modified_at": 1732664616074,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "qjw4vw1e2qzo",
+                        "user_id": "v9jdkyxp196k",
+                        "title": "Adhesivos para ventanas de Mario Kart 8 Deluxe",
+                        "description": "¡Decora ventanas, espejos, ordenadores y todo lo que se te ocurra con estos divertidos adhesivos de Mario Kart 8 Deluxe!\n\nYa puedes llevarte un lote de tres hojas de adhesivos dedicados a Mario Kart 8 Deluxe como recompensa exclusiva de My Nintendo. El lote 1 incluye a Mario e inkling chica, objetos del juego y otros motivos. Los adhesivos pueden colocarse en distintas superficies lisas y retirarse fácilmente sin dejar residuos de pegamento. ¡No te pierdas los lotes 2 y 3 de adhesivos para ventanas de Mario Kart 8 Deluxe! En el lote 2 encontrarás a Yoshi y Canela, y en el 3, a la princesa Peach y Link. Puedes añadir los lotes que pr",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/7v/__/c10420p1056845553/i5168479279.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/7v/__/c10420p1056845553/i5168479279.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/7v/__/c10420p1056845553/i5168479279.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 36.7272335,
+                            "longitude": -4.4349751,
+                            "postal_code": "29009",
+                            "city": "Málaga",
+                            "region": "Andalucía",
+                            "region2": "Málaga",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "adhesivos-para-ventanas-de-mario-kart-8-deluxe-1056845553",
+                        "created_at": 1728387225316,
+                        "modified_at": 1728387235871,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "8j34oqqny769",
+                        "user_id": "qnzxwn80o562",
+                        "title": "MARIO KART 8 NINTENDO WII U INV-11175",
+                        "description": "Reservas a partir de 5€\n\nInstagram @BCNRETROCLASS >> SOMOS TIENDA FÍSICA >> Consulta el perfil \n\nAceptamos reservas a partir de 5€ con Bizum/Paypal Enviamos a través de wallapay/Gls / Correos (a su elección) Aceptamos pago via Wallapay/ Bizum/ PayPal / en mano\n\nSon precios fijos, por favor ABSTENERSE negociantes. No responderemos.\n\nKeywords: Sega, Mega Drive, Game Cube, Game Boy, Color, Switch, Lite, V1, V2, OLED, Nintendo, 64, PlayStation 4, PlayStation 5, PS1, PS2, PS3, PS4, PS5, JOYCON, DUAL SHOCK, IPS, xbox, one, series S, series X, Manual, spine card, inserts, mvs, aes, neogeo, Coleccionismo, precintado, NES, SNES\n",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235859.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235859.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235859.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235898.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235898.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235898.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235895.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235895.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hh/oz/__/c10420p1057644358/i5174235895.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 41.3826807,
+                            "longitude": 2.1770239,
+                            "postal_code": "08070",
+                            "city": "Barcelona",
+                            "region": "Cataluña",
+                            "region2": "Barcelona",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-nintendo-wii-u-inv-11175-1057644358",
+                        "created_at": 1728575870061,
+                        "modified_at": 1728575880648,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "3zl8xpo7xn6x",
+                        "user_id": "wzvyyw2npdzl",
+                        "title": "Volantes Mario Kart",
+                        "description": "Dos volantes para jugar al mario Kart 8 Deluxe ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 20.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385696.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385696.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385696.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385742.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385742.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385742.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385749.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385749.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385749.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385770.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385770.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hg/jf/__/c10420p1055705769/i5162385770.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 43.4450232817572,
+                            "longitude": -3.8473672380791264,
+                            "postal_code": "39600",
+                            "city": "Muriedas",
+                            "region": "Cantabria",
+                            "region2": "Cantabria",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volante-mario-kart-1055705769",
+                        "created_at": 1728072458498,
+                        "modified_at": 1729142299944,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10091,
+                                "name": "Other gaming items",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "wzv4385qwqzl",
+                        "user_id": "p61ok9wmgdj5",
+                        "title": "Mando switch y volante Mario Kart",
+                        "description": "Mando con cable para la Nintendo Switch y volante para Mario Kart 8 deluxe",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hc/49/__/c10420p1048279641/i5125587934.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hc/49/__/c10420p1048279641/i5125587934.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hc/49/__/c10420p1048279641/i5125587934.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.35283235930265,
+                            "longitude": -3.811104148012526,
+                            "postal_code": "28922",
+                            "city": "Alcorcón",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mando-switch-y-volante-mario-kart-1048279641",
+                        "created_at": 1726325608895,
+                        "modified_at": 1730374986476,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10087,
+                                "name": "Consoles & accessories",
+                                "icon": null
+                            },
+                            {
+                                "id": 10092,
+                                "name": "Accessories & spare parts for consoles",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "8j34xrp8n169",
+                        "user_id": "owzy99mv7x65",
+                        "title": "Mario Kart 8 Deluxe",
+                        "description": "Con poco uso.\n\nNo cambio.",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 12.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969354.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969354.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969354.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969451.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969451.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969451.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969500.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969500.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969500.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969557.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969557.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/g8/y5/__/c10420p982489458/i4756969557.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.417531966992506,
+                            "longitude": -3.696177841381412,
+                            "postal_code": "28070",
+                            "city": "Madrid",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-deluxe-982489458",
+                        "created_at": 1707827724250,
+                        "modified_at": 1733008105146,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "nz0407k9e3jo",
+                        "user_id": "npj9gym3826e",
+                        "title": "Mario Kart 8 Wii U",
+                        "description": "Mario Kart 8 para Wii u, en el estado en que se observa en las fotografías. Preferible trato en mano. Envío sólo con condiciones. \n\nNES, SNES, N64, Nintendo 64, Super Nintendo, PSOne, Ps1, Ps2, Ps3, Ps4, Ps5, PlayStation, Play Station, Neo Geo, Sega, Gamegear, Game Gear, MasterSystem,  Megadrive,  Mega Drive, Saturn, Dreamcast,  Game Boy, Game Boy Color, Game Boy Advance, Game Boy Micro, Nintendo DS, Nintendo 3DS, Wii, Wii U, Switch, Xbox, Xbox 360, Xbox One, Xbox Series S, Xbox Series X, PC.\n",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 20.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180005.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180005.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180005.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180019.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180019.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180019.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180024.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180024.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gg/jk/__/c10420p995245527/i4831180024.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.33348790683329,
+                            "longitude": -3.5284932967796485,
+                            "postal_code": "28520",
+                            "city": "Colonia Pablo Iglesias",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "mario-kart-8-wii-u-995245527",
+                        "created_at": 1711627429081,
+                        "modified_at": 1732408448654,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "nzx4gn24n5j2",
+                        "user_id": "nz0m4p5vnvjo",
+                        "title": "Volante Nintendo Switch ",
+                        "description": "Como nuevo, se puede usar para jugar Mario Kart 8 Deluxe ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447955.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447955.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447955.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447975.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447975.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/hl/u5/__/c10420p1064603330/i5209447975.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.98617757946603,
+                            "longitude": -0.6733990953478102,
+                            "postal_code": "03182",
+                            "city": "Torrevieja",
+                            "region": "Comunidad Valenciana",
+                            "region2": "Alacant/Alicante",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "volante-nintendo-switch-1064603330",
+                        "created_at": 1730307178538,
+                        "modified_at": 1730725150822,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 10087,
+                                "name": "Consoles & accessories",
+                                "icon": null
+                            },
+                            {
+                                "id": 10092,
+                                "name": "Accessories & spare parts for consoles",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "p614kq0m9765",
+                        "user_id": "436ew974786d",
+                        "title": "Pack Pegatinas Mario Kart 8 Deluxe ",
+                        "description": "Pack Pegatinas Mario Kart 8 Deluxe (sin abrir)",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631589.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631589.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631589.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631631.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631631.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631631.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631652.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631652.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631652.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631679.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631679.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gw/qj/__/c10420p1022444355/i4985631679.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.27345277643713,
+                            "longitude": -7.00098806934594,
+                            "postal_code": "21122",
+                            "city": "Bellavista",
+                            "region": "Andalucía",
+                            "region2": "Huelva",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "pack-pegatinas-mario-kart-8-deluxe-1022444355",
+                        "created_at": 1719144436831,
+                        "modified_at": 1729968903413,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "36e1nogogkjd",
+                        "user_id": "w67dxld14y6x",
+                        "title": "Poster super mario kart 8 deluxe",
+                        "description": "Postee super mario kart 8 deluxe\nMisure: 70x50",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/g9/6s/__/c10420p982892463/i4759099478.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/g9/6s/__/c10420p982892463/i4759099478.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/g9/6s/__/c10420p982892463/i4759099478.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 45.38994785543376,
+                            "longitude": 9.188499878080018,
+                            "postal_code": "20089",
+                            "city": "Quinto de stampi",
+                            "region": "Lombardia",
+                            "region2": "Milano",
+                            "country_code": "IT"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true,
+                            "cost_configuration_id": "814429d6-7844-471d-97af-196cd4020f26"
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "poster-super-mario-kart-8-deluxe-982892463",
+                        "created_at": 1707945108773,
+                        "modified_at": 1733006326904,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10090,
+                                "name": "Video game merchandising",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "4z4eedyg9vjy",
+                        "user_id": "ke6559m0e06o",
+                        "title": "Caja juego mario kart 8 deluxe switch",
+                        "description": "caja vacia no se incluye juego.\nlas cajas son edición pal España \noriginales\nprecio varia dependiendo  de la caja entre 6 y 7 euros la unidad los títulos menos demandados , 8 euros y 10 euros la unidad las exclusivas Nintendo\nSe hacen lotes  si te interesan varias y se envía por wallapop seriedad",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 10.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527641.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527641.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527641.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527683.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527683.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527683.jpg?pictureSize=W800"
+                                }
+                            },
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527690.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527690.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/gl/58/__/c10420p1002974786/i4874527690.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 40.459434540715044,
+                            "longitude": -3.484697320162769,
+                            "postal_code": "28850",
+                            "city": "Torrejón de Ardoz",
+                            "region": "Comunidad de Madrid",
+                            "region2": "Madrid",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "caja-juego-mario-kart-8-deluxe-switch-1002974786",
+                        "created_at": 1713819840982,
+                        "modified_at": 1730016482319,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10089,
+                                "name": "Video game manuals & guides",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "mzn2xoogekzn",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Rabbids para Nintendo wii-u ",
+                        "description": "Rabbids para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 20.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757249/i5242045829.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757249/i5242045829.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/wl/__/c10420p1069757249/i5242045829.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "rabbids-para-nintendo-wii-u-1069757249",
+                        "created_at": 1731646105054,
+                        "modified_at": 1731646115345,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    },
+                    {
+                        "id": "nz04lwwgpvjo",
+                        "user_id": "mznl0xdoqkjn",
+                        "title": "Call of DUTY ghost para Nintendo wii-u ",
+                        "description": "Call of DUTY ghost para Nintendo wii-u ( kirby y el pincel arcoíris country tropical freeze sonic boom YOSHI'S WOOLLY world Mario maker 3d land pokken tournament kart 8 smash super bros capitán toad tekken new luigi u wiu wii u wiu wiiu  gatitos A HAGO ENVIOS, POSIBILIDAD DE CREAR LOTE COMBINADO PARA APROVECHAR GASTOS DE ENVIO, certificado 7,00 ordinario 3,00 ",
+                        "category_id": 24200,
+                        "price": {
+                            "amount": 15.0,
+                            "currency": "EUR"
+                        },
+                        "images": [
+                            {
+                                "average_color": "13C1AC",
+                                "urls": {
+                                    "small": "https://cdn.wallapop.com/images/10420/ho/wm/__/c10420p1069757403/i5242046727.jpg?pictureSize=W320",
+                                    "medium": "https://cdn.wallapop.com/images/10420/ho/wm/__/c10420p1069757403/i5242046727.jpg?pictureSize=W640",
+                                    "big": "https://cdn.wallapop.com/images/10420/ho/wm/__/c10420p1069757403/i5242046727.jpg?pictureSize=W800"
+                                }
+                            }
+                        ],
+                        "reserved": {
+                            "flag": false
+                        },
+                        "location": {
+                            "latitude": 37.384499155570154,
+                            "longitude": -2.1353480846714183,
+                            "postal_code": "04800",
+                            "city": "Albox",
+                            "region": "Andalucía",
+                            "region2": "Almería",
+                            "country_code": "ES"
+                        },
+                        "shipping": {
+                            "item_is_shippable": true,
+                            "user_allows_shipping": true
+                        },
+                        "favorited": {
+                            "flag": false
+                        },
+                        "bump": {
+                            "type": "none"
+                        },
+                        "web_slug": "call-of-duty-ghost-para-nintendo-wii-u-1069757403",
+                        "created_at": 1731646542773,
+                        "modified_at": 1731646553102,
+                        "taxonomy": [
+                            {
+                                "id": 24200,
+                                "name": "Technology & electronics",
+                                "icon": "robot"
+                            },
+                            {
+                                "id": 24203,
+                                "name": "Gaming: consoles & video games",
+                                "icon": null
+                            },
+                            {
+                                "id": 24131,
+                                "name": "Video games & more",
+                                "icon": null
+                            },
+                            {
+                                "id": 10093,
+                                "name": "Video games",
+                                "icon": null
+                            }
+                        ],
+                        "is_favoriteable": {
+                            "flag": true
+                        },
+                        "is_refurbished": {
+                            "flag": false
+                        }
+                    }
+                ]
+            },
+            "type": "organic_search_results"
+        },
+        "tracking": {
+            "variant": null,
+            "location": {
+                "latitude": 40.41956,
+                "longitude": -3.69196,
+                "country_code": "ES"
+            }
+        }
+    },
+    "meta": {
+        "next_page": "eyJhbGciOiJIUzI1NiJ9.eyJwYXJhbXMiOnsic2VhcmNoUmVxdWVzdFBhcmFtcyI6eyJrZXl3b3JkcyI6Im1hcmlvIGthcnQgOCBkZWx1eGUiLCJsYXRpdHVkZSI6NDAuNDE5NTYsImxvbmdpdHVkZSI6LTMuNjkxOTYsImNhdGVnb3J5X2lkIjpudWxsLCJpc19zaGlwcGFibGUiOm51bGwsInRpbWVfZmlsdGVyIjpudWxsLCJkaXN0YW5jZV9pbl9rbSI6bnVsbCwibWluX3NhbGVfcHJpY2UiOjEwLjAsIm1heF9zYWxlX3ByaWNlIjoyMC4wLCJvcmRlcl9ieSI6Im1vc3RfcmVsZXZhbmNlIiwiY29uZGl0aW9uIjpudWxsLCJzdWJjYXRlZ29yeV9pZHMiOm51bGwsImJyYW5kX21vZGVsIjpudWxsLCJtb2RlbCI6bnVsbCwiZmFzaGlvbl9zaXplIjpudWxsLCJzb3VyY2UiOiJkZWZhdWx0X2ZpbHRlcnMiLCJzZWFyY2hfaWQiOiJhOThhOTAyMS0zMDhhLTRlNWUtYTk2NC1iMWY1YjI0NDkwNTEiLCJpc19yZWZ1cmJpc2hlZCI6bnVsbCwiY29sb3IiOm51bGwsInN0b3JhZ2VfY2FwYWNpdHkiOm51bGwsInNob3dfbXVsdGlwbGVfc2VjdGlvbnMiOnRydWV9LCJuZXh0UGFnZVBhcmFtcyI6eyJyZWxheGVkS2V5d29yZHMiOm51bGwsImN1c3RvbV9yZWxheGVkX2tleXdvcmRzX3J1bGUiOm51bGwsInN0YXJ0Ijo0MCwib2Zmc2V0Ijo0MCwic3RlcCI6MCwiaXRlbXNfY291bnQiOjQwLCJzZWN0aW9uX2l0ZW1zX2NvdW50IjozOSwiaW50ZXJuYWxfc2VhcmNoX2lkIjoiMjA5NDFlMWQtMmU4YS00NjFmLTk5OTItNDQ0MzFjNDQwN2JmIiwicGFnaW5hdGlvbl9kYXRlIjpudWxsLCJjb3VudHJ5X2NvZGUiOiJFUyIsImNpdHkiOiJNYWRyaWQiLCJyZWdpb24iOiJDb211bmlkYWQgZGUgTWFkcmlkIiwicHJvdmluY2UiOiJNYWRyaWQiLCJwb3N0YWxfY29kZSI6IjI4MDE0IiwiZXhwZXJpbWVudCI6Im5vdF9sb2dnZWRfZXhwZXJpbWVudCIsInNlY3Rpb25fdHlwZSI6Im9yZ2FuaWNfc2VhcmNoX3Jlc3VsdHMiLCJkZW5zaXR5X3R5cGUiOm51bGx9fSwiZXhwIjoxNzMzMTYyNTExfQ.Wj6bHVhVvpWmHs5UthAvAsfHYaP4jMVIESicdObXj04",
+        "next_section_type": "organic_search_results"
+    }
+}
